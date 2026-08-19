@@ -1,0 +1,6 @@
+# Pinned to match the training environment (conda env "nnunet").
+# torch/torchvision come from the base image; everything else via pip at build time.
+nnunetv2==2.7.0
+SimpleITK==2.5.5
+scipy==1.15.3
+numpy==2.2.6

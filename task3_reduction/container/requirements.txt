@@ -1,0 +1,11 @@
+# Task 3 container deps. torch/torchvision come from the base image: torch 2.5.1 pins
+# nvidia-cudnn-cu12==9.1.0.70, which has been withdrawn from the cu121 index, so
+# `pip install torch==2.5.1 --index-url .../cu121` no longer resolves.
+lightning==2.6.5
+pytorch-lightning==2.6.5
+torchmetrics==1.9.0
+omegaconf==2.3.0
+hydra-core==1.3.2
+trimesh==4.8.2
+numpy==2.2.6
+scipy==1.15.3

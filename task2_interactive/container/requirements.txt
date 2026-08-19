@@ -1,0 +1,7 @@
+# Task2 container deps (torch/torchvision from base image). Matches conda env "nnunet".
+nnunetv2==2.7.0
+SimpleITK==2.5.5
+scipy==1.15.3
+numpy==2.2.6
+connected-components-3d
+tqdm

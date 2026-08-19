@@ -1,0 +1,52 @@
+{
+ "points": [
+  {
+   "name": "Sacrum fragment 1",
+   "point": [
+    272,
+    311,
+    281
+   ]
+  },
+  {
+   "name": "Sacrum fragment 2",
+   "point": [
+    283,
+    286,
+    330
+   ]
+  },
+  {
+   "name": "Sacrum fragment 3",
+   "point": [
+    260,
+    283,
+    311
+   ]
+  },
+  {
+   "name": "Left Hip fragment 51",
+   "point": [
+    223,
+    219,
+    409
+   ]
+  },
+  {
+   "name": "Left Hip fragment 52",
+   "point": [
+    128,
+    199,
+    269
+   ]
+  },
+  {
+   "name": "Right Hip fragment 101",
+   "point": [
+    225,
+    263,
+    163
+   ]
+  }
+ ]
+}
